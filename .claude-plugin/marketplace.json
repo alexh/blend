@@ -1,0 +1,11 @@
+{
+  "name": "blend",
+  "owner": { "name": "Alex Haynes" },
+  "plugins": [
+    {
+      "name": "blend",
+      "source": "./",
+      "description": "Ship 3D that survives contact with a real screen."
+    }
+  ]
+}

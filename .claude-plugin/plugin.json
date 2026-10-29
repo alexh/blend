@@ -1,0 +1,7 @@
+{
+  "name": "blend",
+  "version": "1.0.0",
+  "description": "Ship 3D that survives contact with a real screen: reference lock, canon looks, rig limits, wordmarks, export contracts, framing, post-FX, transitions, capture and a hard QA gate.",
+  "author": { "name": "Alex Haynes" },
+  "license": "MIT"
+}
